@@ -1,4 +1,4 @@
-module github.com/icosohedral/chatlog
+module github.com/icosohedral/chatlog_bak1
 
 go 1.24.0
 
